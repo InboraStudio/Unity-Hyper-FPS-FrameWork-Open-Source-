@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Assult Rifle_1
+  m_Controller: {fileID: 9100000, guid: 95149dad37197ea46ba19708bd21a1c0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 484112063041692398, guid: 81f340a85d269bf448c7254346066364,
+      type: 3}
+    m_OverrideClip: {fileID: 484112063041692398, guid: 81f340a85d269bf448c7254346066364,
+      type: 3}
+  - m_OriginalClip: {fileID: -7361427651036151181, guid: e5a44f752210aba479bb4c60b2f9b373,
+      type: 3}
+    m_OverrideClip: {fileID: -7361427651036151181, guid: e5a44f752210aba479bb4c60b2f9b373,
+      type: 3}
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: 5af32042825f0a341b0ae8f61182be60,
+      type: 3}
+    m_OverrideClip: {fileID: -3100369314251171874, guid: 5af32042825f0a341b0ae8f61182be60,
+      type: 3}
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: 737b07ac3c4e733469bb7aa607d96b35,
+      type: 3}
+    m_OverrideClip: {fileID: -3100369314251171874, guid: 737b07ac3c4e733469bb7aa607d96b35,
+      type: 3}
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: e99a50f6f1b339043a89d696e9039a39,
+      type: 3}
+    m_OverrideClip: {fileID: -3100369314251171874, guid: e99a50f6f1b339043a89d696e9039a39,
+      type: 3}
+  - m_OriginalClip: {fileID: 2620446780742667696, guid: 8129b5fb42b2cfb4b975156aa54ad4cb,
+      type: 3}
+    m_OverrideClip: {fileID: 2620446780742667696, guid: 8129b5fb42b2cfb4b975156aa54ad4cb,
+      type: 3}
+  - m_OriginalClip: {fileID: -7361427651036151181, guid: 22e4e63cf75082c4eabbf6533f9896f8,
+      type: 3}
+    m_OverrideClip: {fileID: -7361427651036151181, guid: 22e4e63cf75082c4eabbf6533f9896f8,
+      type: 3}
+  - m_OriginalClip: {fileID: -996514233817176465, guid: 5d152f05080398046a3d5bff69e27917,
+      type: 3}
+    m_OverrideClip: {fileID: -996514233817176465, guid: 5d152f05080398046a3d5bff69e27917,
+      type: 3}

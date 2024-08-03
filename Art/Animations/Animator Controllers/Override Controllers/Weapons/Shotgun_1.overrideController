@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shotgun_1
+  m_Controller: {fileID: 9100000, guid: 7e598bf4d0afb264681f08ae9bbfe6e3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -7361427651036151181, guid: 96138e984922d364b9e8fed7b6db35a1,
+      type: 3}
+    m_OverrideClip: {fileID: -7361427651036151181, guid: 96138e984922d364b9e8fed7b6db35a1,
+      type: 3}
+  - m_OriginalClip: {fileID: -6604498402618763010, guid: 62c9b44d184ad4646ae4b7426f73e86d,
+      type: 3}
+    m_OverrideClip: {fileID: -6604498402618763010, guid: 62c9b44d184ad4646ae4b7426f73e86d,
+      type: 3}
+  - m_OriginalClip: {fileID: -3989233829825782188, guid: 914d6afac4516974bbb81f3a04110d27,
+      type: 3}
+    m_OverrideClip: {fileID: -3989233829825782188, guid: 914d6afac4516974bbb81f3a04110d27,
+      type: 3}
+  - m_OriginalClip: {fileID: -3989233829825782188, guid: 13a51b6d6f4e60640a5fed28de92415f,
+      type: 3}
+    m_OverrideClip: {fileID: -3989233829825782188, guid: 13a51b6d6f4e60640a5fed28de92415f,
+      type: 3}
+  - m_OriginalClip: {fileID: -7361427651036151181, guid: 95cda140206d8c04e82d9a6aaa864c28,
+      type: 3}
+    m_OverrideClip: {fileID: -7361427651036151181, guid: 95cda140206d8c04e82d9a6aaa864c28,
+      type: 3}

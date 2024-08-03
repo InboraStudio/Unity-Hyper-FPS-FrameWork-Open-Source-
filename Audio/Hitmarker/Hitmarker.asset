@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e741ac5eb03e24385ed1fb16be686e, type: 3}
+  m_Name: Hitmarker
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 1b74def2e9ebf59459e82fa7e3e2d0e0, type: 3}
+  output: {fileID: 0}
+  mute: 0
+  bypassEffects: 1
+  bypassListenerEffects: 1
+  bypassReverbZones: 1
+  playOnAwake: 0
+  loop: 0
+  priority: 128
+  volume: 0.159
+  pitch: 1
+  stereoPan: 0
+  spatialBlend: 0
+  reverbZoneMix: 1
+  dopplerLevel: 1
+  spread: 0
+  volumeRolloff: 2
+  minDistance: 1
+  maxDistance: 500
+  dymaicPitch: 0
+  pitchFactor: 0
+  customEvents: []

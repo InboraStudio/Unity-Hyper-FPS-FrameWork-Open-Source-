@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23ee099bf388b684a82d6b44291759ae, type: 3}
+  m_Name: Pistol_1
+  m_EditorClassIdentifier: 
+  Name: Pistol_1
+  replacement: {fileID: 3038335593628742140, guid: 21e9684a6af38734d96c7c5344a73eef,
+    type: 3}
+  canves: {fileID: 6802205737550449059, guid: 0336a53be1116fe48935ea7a38bfc26e, type: 3}
+  crosshair: {fileID: 4358158801835502854, guid: 27645de92401af74ba44a94455dc5867,
+    type: 3}
+  shootingMechanism: 1
+  rechargingType: 0
+  fireMode: 1
+  fireRateUnit: 60
+  casingDirection: 2
+  hittableLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  projectile: {fileID: 5533149664834043035, guid: 788a3d3b8ecc33d4989926185282c05d,
+    type: 3}
+  casing: {fileID: 6318048297812855481, guid: 26e79d0b0e67a0c48abfba82d98027d4, type: 3}
+  defaultDecal: {fileID: 1000010844420130, guid: 4edabb1c0dde62743b137378c7d22980,
+    type: 3}
+  decalDirection: 0
+  fireRate: 1000
+  muzzleVelocity: 250
+  ejectionVelocity: 5
+  impactForce: 15
+  damage: 31
+  range: 200
+  damageRangeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -0.3534359
+      outSlope: -0.3534359
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.06666711
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  sprayPattern: {fileID: 11400000, guid: 897a68f121d704e4f8fe89f542c34aab, type: 2}
+  aimSprayPattern: {fileID: 11400000, guid: 200bae5b3c83d564d85667fedb4635b7, type: 2}
+  fireTransition: 0.05
+  rechargingStateName: Recharging
+  allowFireWhileRecharging: 0
+  casingRotationFactor: 25
+  lowerdDelay: 10
+  tracerRounds: 1
+  projectileSize: 120
+  decalSize: 0.6
+  afterShotReliefTime: 1
+  shotCount: 1
+  shotDelay: 0.1
+  alwaysApplyFire: 1
+  gamepadVibrationAmountRight: 0
+  gamepadVibrationAmountLeft: 1
+  gamepadVibrationDuration: 0.1
+  ammoType: {fileID: 11400000, guid: 6dcff0833cc24c643b83d68e607e17e0, type: 2}
+  magazineCapacity: 12
+  reserve: 12
+  automaticReload: 1
+  reloadMethod: 0
+  reloadTime: 2
+  emptyReloadTime: 2
+  reloadStateName: Reload
+  reloadTransitionTime: 0.3
+  cameraRecoil: 4
+  cameraShake: 0.06
+  cameraShakeFadeOutTime: 0.2
+  horizontalRecoil: 0.7
+  verticalRecoil: 0.1
+  recoilPositionRoughness: 10
+  recoilRotationRoughness: 25
+  staticRecoilPosition: {x: 0, y: 0, z: -0.6}
+  staticRecoilRotation: {x: -50, y: 25, z: 1}
+  staticRecoilPositionAim: {x: 0, y: 0, z: -0.3}
+  staticRecoilRotationAim: {x: -50, y: 25, z: -10}
+  recoilPosition: {x: 0.01, y: 0.01, z: 0}
+  recoilRotation: {x: -15, y: 25, z: 15}
+  recoilRotationAim: {x: -1, y: 3, z: 3}
+  recoilPositionAim: {x: 0, y: 0, z: 0}
+  aimSpeed: 10
+  aimFieldOfView: 50
+  aimWeaponFieldOfview: 40
+  Movement_WalkSpeed: 5.5
+  Movement_RunSpeed: 10
+  Movement_TacticalSprintSpeed: 12
+  Movement_AimWalkSpeed: 4
+  Movement_FireWalkSpeed: 4
+  allowFullMovementSpeedWhileAiming: 0
+  fire: {fileID: 11400000, guid: 32a2f80fb0c67e64081a8e973e0f22c5, type: 2}
+  fireTail: {fileID: 11400000, guid: 72df941812d0fa2489ab8d293fc08fc5, type: 2}
+  reloadAudio: {fileID: 11400000, guid: 31e2cd0af72bb72479102f6cd5972cfb, type: 2}
+  reloadEmptyAudio: {fileID: 11400000, guid: 31e2cd0af72bb72479102f6cd5972cfb, type: 2}

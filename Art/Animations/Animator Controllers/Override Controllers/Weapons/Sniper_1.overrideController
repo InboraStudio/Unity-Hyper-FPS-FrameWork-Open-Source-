@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sniper_1
+  m_Controller: {fileID: 9100000, guid: 3af63ccc7f6d25949bf6b0d575e11dc8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -7361427651036151181, guid: e487c09143c6de94893d4f77a480a835,
+      type: 3}
+    m_OverrideClip: {fileID: -7361427651036151181, guid: e487c09143c6de94893d4f77a480a835,
+      type: 3}
+  - m_OriginalClip: {fileID: -6604498402618763010, guid: 1e2aee88380bcf74a90a1287b747dfe0,
+      type: 3}
+    m_OverrideClip: {fileID: -6604498402618763010, guid: 1e2aee88380bcf74a90a1287b747dfe0,
+      type: 3}
+  - m_OriginalClip: {fileID: -3989233829825782188, guid: c971cc9bad1f47943ae180584cec7536,
+      type: 3}
+    m_OverrideClip: {fileID: -3989233829825782188, guid: c971cc9bad1f47943ae180584cec7536,
+      type: 3}
+  - m_OriginalClip: {fileID: 5667949293532577802, guid: 9c06375748c018442b6b02d807e6ab52,
+      type: 3}
+    m_OverrideClip: {fileID: 5667949293532577802, guid: 9c06375748c018442b6b02d807e6ab52,
+      type: 3}
+  - m_OriginalClip: {fileID: -1549180438347485320, guid: 1622d145a3544c140aca80128a8107e0,
+      type: 3}
+    m_OverrideClip: {fileID: -1549180438347485320, guid: 1622d145a3544c140aca80128a8107e0,
+      type: 3}
+  - m_OriginalClip: {fileID: -1658453978854511673, guid: 33a85d06ce1cb8a469b13cc5d2cdf38e,
+      type: 3}
+    m_OverrideClip: {fileID: -1658453978854511673, guid: 33a85d06ce1cb8a469b13cc5d2cdf38e,
+      type: 3}
+  - m_OriginalClip: {fileID: -996514233817176465, guid: cd695dcf562454a498fdb6d93608c1e2,
+      type: 3}
+    m_OverrideClip: {fileID: -996514233817176465, guid: cd695dcf562454a498fdb6d93608c1e2,
+      type: 3}
+  - m_OriginalClip: {fileID: -7361427651036151181, guid: 0b4911fc25d14ff45b19c384502161e7,
+      type: 3}
+    m_OverrideClip: {fileID: -7361427651036151181, guid: e487c09143c6de94893d4f77a480a835,
+      type: 3}

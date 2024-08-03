@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd88de952859a849a5a4bbba3b768c4, type: 3}
+  m_Name: Settings Preset
+  m_EditorClassIdentifier: 
+  sections:
+  - name: Video
+    options:
+    - name: Display Mode
+      functionName: SetDisplayMode
+      foldout: 1
+      selectedFunction: 3
+    - name: 'Display Resolution '
+      functionName: SetDisplayResolution
+      foldout: 1
+      selectedFunction: 4
+    - name: Vertical Sync
+      functionName: SetVerticalSync
+      foldout: 1
+      selectedFunction: 6
+    - name: Render Scale
+      functionName: SetRenderScale
+      foldout: 1
+      selectedFunction: 7
+    - name: MSAA
+      functionName: SetMSAA
+      foldout: 1
+      selectedFunction: 8
+    - name: Texture Quality
+      functionName: SetTextureQuality
+      foldout: 1
+      selectedFunction: 9
+    - name: Texture Filtering
+      functionName: SetTextureFiltering
+      foldout: 1
+      selectedFunction: 10
+    - name: Shadow Resolution
+      functionName: SetShadowResolution
+      foldout: 1
+      selectedFunction: 11
+    - name: Shadow Distance
+      functionName: SetShadowDistance
+      foldout: 1
+      selectedFunction: 12
+    - name: Shadow Cascade
+      functionName: SetShadowCascade
+      foldout: 1
+      selectedFunction: 13
+    - name: Soft Shadow
+      functionName: SetSoftShadow
+      foldout: 1
+      selectedFunction: 14
+    - name: HDR
+      functionName: SetHDR
+      foldout: 1
+      selectedFunction: 15
+    - name: Grading Mode
+      functionName: SetGradingMode
+      foldout: 1
+      selectedFunction: 16
+    - name: Post-Procssing
+      functionName: SetPostProcssing
+      foldout: 1
+      selectedFunction: 17
+    - name: Frame Limit
+      functionName: SetFrameLimit
+      foldout: 1
+      selectedFunction: 5
+  - name: Game
+    options:
+    - name: SetSensitivity
+      functionName: SetSensitivityMultiplier
+      foldout: 1
+      selectedFunction: 18
+    - name: SetXSensitivity
+      functionName: SetXSensitivityMultiplier
+      foldout: 1
+      selectedFunction: 19
+    - name: SetYSensitivity
+      functionName: SetYSensitivityMultiplier
+      foldout: 1
+      selectedFunction: 20
+    - name: Field Of View
+      functionName: SetFieldOfView
+      foldout: 1
+      selectedFunction: 21
+    - name: Weapon Field Of View
+      functionName: SetWeaponFieldOfView
+      foldout: 1
+      selectedFunction: 22
+  currentSelectedSection: 1
