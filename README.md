@@ -47,7 +47,7 @@ The FPS Framework has been tested with the following Unity versions and render p
 ### Modular Character Controller
 - Effortlessly add new features to the character controller.
 
-- ![image](https://github.com/user-attachments/assets/9c740216-6069-4b36-8980-abe8544079e3)
+  ![image](https://github.com/user-attachments/assets/9c740216-6069-4b36-8980-abe8544079e3)
 
 
 ### Rigidbody FPS Controllers Support
@@ -71,13 +71,13 @@ The FPS Framework has been tested with the following Unity versions and render p
 ### Explosive Projectiles
 - Develop projectiles with explosive capabilities for rocket launcher-like effects.
 
-- ![image](https://github.com/user-attachments/assets/8edad11b-d31e-4584-a4cb-f2f01383c242)
+ ![image](https://github.com/user-attachments/assets/8edad11b-d31e-4584-a4cb-f2f01383c242)
 
 
 ### Respawn System
 - User-friendly system for spawning and respawning actors, both Bots and Players.
 
-- ![image](https://github.com/user-attachments/assets/23e29669-6f05-44e5-a8b2-d0c2483f0008)
+ ![image](https://github.com/user-attachments/assets/23e29669-6f05-44e5-a8b2-d0c2483f0008)
 
 
 ### Advanced Audio System
@@ -86,7 +86,7 @@ The FPS Framework has been tested with the following Unity versions and render p
 ### Custom Spray Patterns
 - Implement custom spray patterns for firearms, enhancing player control and gameplay enjoyment.
 
-- ![image](https://github.com/user-attachments/assets/d32f42ea-d69e-42be-848a-69c32d4ebe94)
+ ![image](https://github.com/user-attachments/assets/d32f42ea-d69e-42be-848a-69c32d4ebe94)
 
 
 ### Modular Attachments System
@@ -94,8 +94,8 @@ The FPS Framework has been tested with the following Unity versions and render p
 
 ### Procedural Animation System
 - Generate any FPS animation with minimal effort. Input a value and let the system take care of the rest.
-
-- ![image](https://github.com/user-attachments/assets/7f33a398-be23-45ce-a352-f3de7e123230)
+- 
+ ![image](https://github.com/user-attachments/assets/7f33a398-be23-45ce-a352-f3de7e123230)
 
 
 ### Superior Game Feel
@@ -110,7 +110,7 @@ The FPS Framework has been tested with the following Unity versions and render p
 ### Modular Interactables System
 - Easily add new types of interactions with minimal effort.
 
-- ![image](https://github.com/user-attachments/assets/f0da103b-569d-48af-9e8f-20bd79afa9e2)
+![image](https://github.com/user-attachments/assets/f0da103b-569d-48af-9e8f-20bd79afa9e2)
 
 
 ### Advanced Settings Menu
