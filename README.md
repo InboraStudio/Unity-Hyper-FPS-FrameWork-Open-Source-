@@ -133,4 +133,5 @@ To start using the FPS Framework, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/fps-framework.git
+   https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-.git
+   ```
