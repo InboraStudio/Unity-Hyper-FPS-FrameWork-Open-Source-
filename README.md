@@ -61,7 +61,7 @@ The FPS Framework has been tested with the following Unity versions and render p
 
 ### Feature-Rich Firearm System
 - An easy-to-use, modular firearm system enabling the creation of any gun type.
-- 
+  
 ![image](https://github.com/user-attachments/assets/bcc63df1-fd68-4035-8acf-866a0ac2011b)
 
 
