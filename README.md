@@ -94,7 +94,7 @@ The FPS Framework has been tested with the following Unity versions and render p
 
 ### Procedural Animation System
 - Generate any FPS animation with minimal effort. Input a value and let the system take care of the rest.
-- 
+  
  ![image](https://github.com/user-attachments/assets/7f33a398-be23-45ce-a352-f3de7e123230)
 
 
